@@ -12,7 +12,7 @@
     "discord.js": "^11.5.1",
     "google-tts-api": "0.0.4",
     "jimp": "^0.9.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "quick.db": "^7.0.0-b22"
   },
   "devDependencies": {},
